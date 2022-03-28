@@ -10,7 +10,7 @@ pratikum 3<br>
 Langka pertama kita buat dulu source code nya dulu :<br>
 ![gambar1](Gambar/html_list1.png)<br>
 Dan selanjutnya kita buka browser dan hasilnya seperti dibawah ini :<br>
-![gambar2](Gmbar/hasil_darihtmllist.png)<br>
+![gambar2](Gambar/hasil_darihtmllist.png)<br>
 ![Gambar3](Gambar/List_html.png)<br>
 Dengan begitu,sudah selesai kita membuat List Html<br>
 
@@ -27,9 +27,9 @@ selanjutnya kita akan membuat form html, kita buat dulu source code nya :<br>
 Dan selanjutnya kita buka browser dan hasilnya seperti dibawah ini :<br>
 ![Gambar7](Gambar/form_html.png)<br>
 
-Sekian dari saya,
-Semoga Bermanfaat
-Terimakasih......
+Sekian dari saya,<br>
+Semoga Bermanfaat<br>
+Terimakasih......<br>
 
 
 
